@@ -172,7 +172,7 @@
                 <div class="card-body">
                     <h2 class="name">Luca</h2>
                     <h6 class="des">Lorem sanketh dolor SIR consectetur elit.</h6>
-                    <button class="watchlist-btn">add to watchlist</button>
+                    <button class="watchlist-btn">add to watchlist test</button>
                 </div>
             </div>
             <div class="card">
